@@ -1,0 +1,24 @@
+.landing-page .container{
+
+    width: 100%;
+}
+
+ .banner-heading{
+    font-size: 400% ;
+    border:2px solid red ;
+    color: white;
+    max-width: 454px;
+ }  
+ .landing-page-main img{ 
+    width: 100%; 
+} */
+ .landing-page-main{
+    position: relative;
+    margin:0 10%;
+} 
+ .landing-page-row{
+    position: absolute;
+    top: 30%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+}

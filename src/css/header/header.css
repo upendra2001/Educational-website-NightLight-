@@ -1,0 +1,32 @@
+.header-main
+{
+    background-color: #f8f9fa;   
+    margin-bottom: 50px;
+}
+ 
+.navbar { 
+    padding: 5px 5% !important;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 1%, rgba(255,255,255,1) 100%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%); 
+}
+
+.nav-top-ul li{
+    width: 7rem;
+}
+
+.nav-top-ul-li-text-align{ 
+    font-size: 20px !important;
+    color: white;
+    padding:0 37%;
+    transition-delay:5s ;
+}
+.nav-top-ul li a{
+    color: black !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.navbar-toggler
+{
+    border: 1px solid #808080 !important;
+}
